@@ -15,6 +15,6 @@ public class UserA : MonoBehaviour
     {
         //Adding motion scripting.
         //More work on motion...
-
+        //OK... done with motion. Ready to merge into main
     }
 }
