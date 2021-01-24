@@ -13,6 +13,6 @@ public class SprintMechanic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //Sprint mechanic done! Ready to merge.
     }
 }
