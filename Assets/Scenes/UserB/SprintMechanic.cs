@@ -7,7 +7,7 @@ public class SprintMechanic : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //Sprint mechanic in process
     }
 
     // Update is called once per frame
