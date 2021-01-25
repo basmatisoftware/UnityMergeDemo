@@ -2,7 +2,6 @@ https://stackoverflow.com/questions/2763006/make-the-current-git-branch-a-master
 
 git checkout better_branch
 git merge --strategy=ours master    # keep the content of this branch, but record a merge
-git checkout master
-git merge better_branch             # fast-forward master up to the merge
+git checkout main
+git merge better_branch             # fast-forward main up to the merge
 
-(but, I used "main" instead of master)
