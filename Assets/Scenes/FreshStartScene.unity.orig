@@ -422,11 +422,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 742238862}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
-  m_LocalPosition: {x: -4.29, y: 3.02, z: 0}
-=======
-  m_LocalPosition: {x: -2.38, y: 3, z: 0}
->>>>>>> makeF
+  m_LocalPosition: {x: -4.23, y: 2.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -584,7 +580,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1137114321}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.96, y: -0.05, z: 0}
+<<<<<<< HEAD
+  m_LocalPosition: {x: -5.75, y: 1.52, z: 0}
+=======
+  m_LocalPosition: {x: -0.1, y: -1.05, z: 0}
+>>>>>>> makeM
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -663,7 +663,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1245385178}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.05, y: 1.55, z: 0}
+  m_LocalPosition: {x: -5.79, y: 0.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -742,7 +742,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300777759}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.17, y: 2.91, z: 0}
+  m_LocalPosition: {x: -2.76, y: 0.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -822,10 +822,10 @@ Transform:
   m_GameObject: {fileID: 1499107435}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
-  m_LocalPosition: {x: -4.23, y: 0.03, z: 0}
+  m_LocalPosition: {x: -2.3, y: -0.56, z: 0}
 =======
-  m_LocalPosition: {x: -0.88, y: 2.91, z: 0}
->>>>>>> makeF
+  m_LocalPosition: {x: -1.33, y: 1.56, z: 0}
+>>>>>>> makeM
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -986,11 +986,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1884705229}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
-  m_LocalPosition: {x: -2.3, y: -3.59, z: 0}
-=======
-  m_LocalPosition: {x: -4.78, y: -0.35, z: 0}
->>>>>>> makeF
+  m_LocalPosition: {x: -4.29, y: -0.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1069,11 +1065,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1905537365}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
-  m_LocalPosition: {x: -2.72, y: 2.94, z: 0}
-=======
-  m_LocalPosition: {x: -3.22, y: -0.32, z: 0}
->>>>>>> makeF
+  m_LocalPosition: {x: -2.31, y: 0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
